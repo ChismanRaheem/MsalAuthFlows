@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsalAuthFlows", "MsalAuthFlows.csproj", "{CB075846-D9D7-44E2-A03D-4A3B62B89D90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertedCli2PKCE", "ConvertedCli2PKCE.csproj", "{CB075846-D9D7-44E2-A03D-4A3B62B89D90}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cli", "..\Session4\ClientCredential\console-daemon\Cli.csproj", "{3D9C14E1-28A3-4A86-90D9-99691F1222B2}"
 EndProject
